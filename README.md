@@ -1,4 +1,4 @@
-# Payments Service Example
+# Products Service Example
 
 Este proyecto es un ejemplo de un servicio de productos utilizando java y Docker.
 
